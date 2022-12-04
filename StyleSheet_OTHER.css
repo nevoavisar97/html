@@ -1,0 +1,24 @@
+﻿.nav-bar {
+    background-image: url(img/header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-primary {
+    font-size: 20pt;
+    font-weight: bold;
+}
+#about_us {
+    direction: rtl;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    font-size: 15pt;
+}
+#navbarCollapse {
+    direction: rtl !important;
+    font-family: 'Heebo', sans-serif;
+}
+#chart {
+    direction: rtl;
+    text-align: center;
+}
